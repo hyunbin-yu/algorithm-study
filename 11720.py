@@ -1,3 +1,5 @@
+#11720
+
 n = int(input())
 num = input()
 numlist = list(num)
